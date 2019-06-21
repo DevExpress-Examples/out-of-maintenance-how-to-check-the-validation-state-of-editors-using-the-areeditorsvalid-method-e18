@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to check the validation state of editors using the AreEditorsValid method
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1844/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how the AreEditosValid static method can be used to check the error state of several DevExpress editors without validating them again.<br />
